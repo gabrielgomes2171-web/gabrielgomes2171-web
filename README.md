@@ -16,7 +16,7 @@
 ---
 
 ## 👋 Sobre mim
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º período)  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º período)  
 💻 Interesse em Desenvolvedor Front-End  
 🎨 Focado em UI/UX Design  
 🚀 Criando interfaces modernas e intuitivas  
