@@ -10,7 +10,7 @@
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Front-End+Developer;UI%2FUX+Designer;ADS+Student+(3º+período);Construindo+interfaces+modernas" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Front-End+Developer;UI%2FUX+Designer;ADS+Student+(4º+período);Construindo+interfaces+modernas" />
 </p>
 
 ---
